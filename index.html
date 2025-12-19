@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Generative AI Tweets Analysis</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin: 24px; }
+    header { margin-bottom: 20px; }
+    section { margin-bottom: 24px; }
+    img { max-width: 100%; height: auto; border: 1px solid #ddd; padding: 6px; background: #fff; }
+    pre { background: #f7f7f7; padding: 12px; border: 1px solid #eee; white-space: pre-wrap; }
+    .row { display:flex; gap: 16px; flex-wrap:wrap; }
+    .col { flex: 1 1 420px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Generative AI Tweets — Analysis Report</h1>
+    <p>This report summarizes the data collection and analysis performed on tweets matching the query "generative ai".</p>
+  </header>
+
+  <section>
+    <h2>Analysis steps</h2>
+    <ol>
+      <li>Collect tweets from Twitter API (query: "generative ai").</li>
+      <li>Store tweets in MongoDB database <code>demo</code>, collection <code>tweet_collection</code>.</li>
+      <li>Build a directed mention network (author → mentioned users).</li>
+      <li>Perform sentiment analysis (VADER) on tweets and aggregate counts.</li>
+      <li>Generate a text summary of hashtags, mentions, top words, language distribution and representative tweets.</li>
+      <li>Save visual artifacts (network PNG and sentiment bar chart) and a textual summary.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Visuals</h2>
+    <div class="row">
+      <div class="col">
+        <h3>User mention network</h3>
+        <p>Subgraph centered on top nodes (saved as <code>artifacts/user_network.png</code>).</p>
+        <img src="artifacts/user_network.png" alt="User mention network">
+      </div>
+
+      <div class="col">
+        <h3>Sentiment distribution</h3>
+        <p>Counts of positive/neutral/negative tweets (saved as <code>artifacts/sentiment_bar.png</code>).</p>
+        <img src="artifacts/sentiment_bar.png" alt="Sentiment bar chart">
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Text summary</h2>
+    <p>The raw text summary produced by <code>scripts/summarize_tweets.py</code> is shown below; it's also available at <code>artifacts/tweet_summary.txt</code>.</p>
+    <pre>
+Tweet summary for 100 tweets
+Time span: 2025-12-19T17:57:01+00:00 to 2025-12-19T18:49:08+00:00
+
+Top hashtags:
+  #ai: 4
+  #generativeai: 3
+  #contentcreation: 1
+  #cinemastudio: 1
+  #higgsfield: 1
+  #artificialintelligence: 1
+  #rodin: 1
+  #ces26: 1
+  #ces2026: 1
+  #bosch: 1
+  #africatech: 1
+  #techskills: 1
+  #agenticai: 1
+  #akitra: 1
+  #aws: 1
+
+Top mentions:
+  @michaelg_3d: 7
+  @mrgeary08: 6
+  @rinothebouncer: 4
+  @laratlarian: 3
+  @arguewithme69: 3
+  @twinkslayer4200: 2
+  @wrenfps: 2
+  @nickjointson: 2
+  @kristoffmikael: 2
+  @qtarothought: 2
+  @moon_ie_8: 2
+  @huge_icons: 2
+  @wlemonesc: 2
+  @lookatmymeat1: 2
+  @elonmusk: 2
+  @angrytomtweets: 2
+  @jondarsen: 2
+  @edward18517: 2
+  @gprime85: 2
+  @jpcarleto: 2
+
+Top words:
+  ai: 144
+  generative: 103
+  https: 40
+  co: 40
+  use: 15
+  like: 14
+  people: 13
+  using: 13
+  think: 12
+  games: 10
+  x: 10
+  game: 9
+  uses: 8
+  bad: 7
+  robots: 7
+  interface: 7
+  even: 7
+  good: 7
+  new: 7
+  time: 6
+  please: 6
+  video: 6
+  data: 6
+  tools: 6
+  used: 6
+  contest: 5
+  design: 5
+  powered: 5
+  tool: 5
+  machine: 5
+
+Language distribution:
+  en: 98
+  ro: 2
+
+Representative tweets:
+- id=2002076470659985531 author=960943074 engagement=8513 len=290
+  As a reminder for those entering the Mega Man: Dual Override Boss Design Art Contest, please remember the rules posted at https://t.co/RyaXBhDNQd. Entrants must follow this account, and please leave the AI to the robots: generative AI is...
+
+- id=2002078811610075142 author=1229546406563721216 engagement=314 len=119
+  @MegaMan "And please leave the AI to the robots: generative AI is prohibited for this contest." https://t.co/H4AOEnQVa7
+
+- id=2002083466796806454 author=2393609060 engagement=15 len=158
+  Mega Man Dunks On Generative AI Like Another Failed Modern Console Bundle Won't Send Him Back To Shilling NFTs https://t.co/UFs1tMjC8o https://t.co/QKvLCWRmFX
+
+- id=2002082282572841389 author=2193696986 engagement=8 len=156
+  "and please leave the AI to the robots: generative AI is prohibited for this contest."  Señor perro tuitazo. https://t.co/cw8KyFO4Nj https://t.co/XC98BQvj8A
+
+- id=2002076862735114739 author=19224252 engagement=6 len=108
+  @ArgueWithMe69 Me when I don't understand the difference between generative AI and a social media algorithm.
+    </pre>
+
+  <section>
+    <h2>Notes & next steps</h2>
+    <ul>
+      <li>Consider expanding tweet fields during collection (authors, expansions) to enrich the network.</li>
+      <li>Run the network builder with larger datasets to improve visualization.</li>
+      <li>Consider saving a CSV of top mentions and producing interactive visualizations (e.g., D3).</li>
+    </ul>
+  </section>
+
+  <footer>
+    <small>Generated on 2025-12-19 by scripts in this repository.</small>
+  </footer>
+</body>
+</html>

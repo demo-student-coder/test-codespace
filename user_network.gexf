@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-12-19">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="1622302302324555776" label="1622302302324555776" />
+      <node id="username:genemoneyman" label="username:genemoneyman" />
+      <node id="username:andrew_lyerly" label="username:andrew_lyerly" />
+      <node id="username:darussianbadger" label="username:darussianbadger" />
+      <node id="1641380637645983744" label="1641380637645983744" />
+      <node id="username:dangitsjess" label="username:dangitsjess" />
+      <node id="username:laratlarian" label="username:laratlarian" />
+      <node id="18366830" label="18366830" />
+      <node id="username:hannyahz" label="username:hannyahz" />
+      <node id="896357955125334016" label="896357955125334016" />
+      <node id="username:flamenyong" label="username:flamenyong" />
+      <node id="username:mrpyo1" label="username:mrpyo1" />
+      <node id="3289689467" label="3289689467" />
+      <node id="username:schisofrenia" label="username:schisofrenia" />
+      <node id="955862511592656896" label="955862511592656896" />
+      <node id="username:twinkslayer4200" label="username:twinkslayer4200" />
+      <node id="username:wrenfps" label="username:wrenfps" />
+      <node id="username:nickjointson" label="username:nickjointson" />
+      <node id="username:kristoffmikael" label="username:kristoffmikael" />
+      <node id="username:qtarothought" label="username:qtarothought" />
+      <node id="1997782853414006784" label="1997782853414006784" />
+      <node id="username:iam_smx" label="username:iam_smx" />
+      <node id="29751400" label="29751400" />
+      <node id="username:joewilsoneq1" label="username:joewilsoneq1" />
+      <node id="775375172199211009" label="775375172199211009" />
+      <node id="username:gwopdouble0" label="username:gwopdouble0" />
+      <node id="username:starfighterint1" label="username:starfighterint1" />
+      <node id="username:dexerto" label="username:dexerto" />
+      <node id="1980933631196684288" label="1980933631196684288" />
+      <node id="username:higgsfield_ai" label="username:higgsfield_ai" />
+      <node id="1896390258838700032" label="1896390258838700032" />
+      <node id="username:moon_ie_8" label="username:moon_ie_8" />
+      <node id="username:huge_icons" label="username:huge_icons" />
+      <node id="username:wlemonesc" label="username:wlemonesc" />
+      <node id="username:lookatmymeat1" label="username:lookatmymeat1" />
+      <node id="1802360522764922881" label="1802360522764922881" />
+      <node id="username:kruzadar" label="username:kruzadar" />
+      <node id="770299092417257472" label="770299092417257472" />
+      <node id="username:guts4dinner" label="username:guts4dinner" />
+      <node id="username:shitpostrock" label="username:shitpostrock" />
+      <node id="username:tidywire" label="username:tidywire" />
+      <node id="1923549457716740098" label="1923549457716740098" />
+      <node id="username:chieftodd16" label="username:chieftodd16" />
+      <node id="username:briscoepark" label="username:briscoepark" />
+      <node id="username:theunclean" label="username:theunclean" />
+      <node id="1729437006319538176" label="1729437006319538176" />
+      <node id="username:sirbest247" label="username:sirbest247" />
+      <node id="username:miranetwork" label="username:miranetwork" />
+      <node id="username:elonmusk" label="username:elonmusk" />
+      <node id="21275561" label="21275561" />
+      <node id="username:momotexx" label="username:momotexx" />
+      <node id="1720665183188922368" label="1720665183188922368" />
+      <node id="username:drkr00" label="username:drkr00" />
+      <node id="username:jjpcodes" label="username:jjpcodes" />
+      <node id="username:andrewcurran_" label="username:andrewcurran_" />
+      <node id="740508925" label="740508925" />
+      <node id="username:angrytomtweets" label="username:angrytomtweets" />
+      <node id="username:jondarsen" label="username:jondarsen" />
+      <node id="username:thepeoplesfool" label="username:thepeoplesfool" />
+      <node id="username:kingofinternet" label="username:kingofinternet" />
+      <node id="username:existentialenso" label="username:existentialenso" />
+      <node id="2985916727" label="2985916727" />
+      <node id="username:yakkeemun" label="username:yakkeemun" />
+      <node id="username:danielvavra" label="username:danielvavra" />
+      <node id="username:kindashabby" label="username:kindashabby" />
+      <node id="username:ohnoitsalexx" label="username:ohnoitsalexx" />
+      <node id="1987207946518814720" label="1987207946518814720" />
+      <node id="username:kuk_ron" label="username:kuk_ron" />
+      <node id="username:gassee" label="username:gassee" />
+      <node id="1965480748611219456" label="1965480748611219456" />
+      <node id="username:deemostech" label="username:deemostech" />
+      <node id="846211625447231490" label="846211625447231490" />
+      <node id="username:kitty_bit_games" label="username:kitty_bit_games" />
+      <node id="2370161702" label="2370161702" />
+      <node id="username:mrgeary08" label="username:mrgeary08" />
+      <node id="username:edward18517" label="username:edward18517" />
+      <node id="username:gprime85" label="username:gprime85" />
+      <node id="983884712241451010" label="983884712241451010" />
+      <node id="username:daboyui" label="username:daboyui" />
+      <node id="92969032" label="92969032" />
+      <node id="username:romancoxy" label="username:romancoxy" />
+      <node id="username:insidergamingig" label="username:insidergamingig" />
+      <node id="806652220443721728" label="806652220443721728" />
+      <node id="username:aubreanreverie" label="username:aubreanreverie" />
+      <node id="1416837274554281987" label="1416837274554281987" />
+      <node id="username:chlouds121600" label="username:chlouds121600" />
+      <node id="1010307836600086529" label="1010307836600086529" />
+      <node id="username:howdypeepos" label="username:howdypeepos" />
+      <node id="1940097619616989184" label="1940097619616989184" />
+      <node id="username:slimerslimy" label="username:slimerslimy" />
+      <node id="1821618725797396480" label="1821618725797396480" />
+      <node id="username:rinothebouncer" label="username:rinothebouncer" />
+      <node id="22176458" label="22176458" />
+      <node id="username:vamichaelalaws" label="username:vamichaelalaws" />
+      <node id="1967508590555471872" label="1967508590555471872" />
+      <node id="username:davord7" label="username:davord7" />
+      <node id="username:bindureddy" label="username:bindureddy" />
+      <node id="username:devselvar" label="username:devselvar" />
+      <node id="1251465665980104704" label="1251465665980104704" />
+      <node id="username:1000rekagame" label="username:1000rekagame" />
+      <node id="username:michaelg_3d" label="username:michaelg_3d" />
+      <node id="1204505600" label="1204505600" />
+      <node id="username:jpcarleto" label="username:jpcarleto" />
+      <node id="757717097472548866" label="757717097472548866" />
+      <node id="931159134" label="931159134" />
+      <node id="username:coldempanadas" label="username:coldempanadas" />
+      <node id="username:gregariousjames" label="username:gregariousjames" />
+      <node id="785639121649737729" label="785639121649737729" />
+      <node id="username:henryman73" label="username:henryman73" />
+      <node id="888911366127403008" label="888911366127403008" />
+      <node id="username:arguewithme69" label="username:arguewithme69" />
+      <node id="username:rahll" label="username:rahll" />
+      <node id="1985437728868352000" label="1985437728868352000" />
+      <node id="username:brizksie" label="username:brizksie" />
+      <node id="285099132" label="285099132" />
+      <node id="username:kougeru" label="username:kougeru" />
+      <node id="1162206399704657921" label="1162206399704657921" />
+      <node id="username:randommishaps" label="username:randommishaps" />
+      <node id="1229546406563721216" label="1229546406563721216" />
+      <node id="username:megaman" label="username:megaman" />
+      <node id="1593198301679161347" label="1593198301679161347" />
+      <node id="username:grok" label="username:grok" />
+      <node id="username:xai" label="username:xai" />
+      <node id="899006004" label="899006004" />
+      <node id="username:stealcase" label="username:stealcase" />
+      <node id="984869894670843905" label="984869894670843905" />
+      <node id="737142202481016832" label="737142202481016832" />
+      <node id="username:ces" label="username:ces" />
+      <node id="username:enilev" label="username:enilev" />
+      <node id="username:ctatech" label="username:ctatech" />
+      <node id="1589578114257997824" label="1589578114257997824" />
+      <node id="1601389369360777217" label="1601389369360777217" />
+      <node id="username:juninhopensa" label="username:juninhopensa" />
+      <node id="username:evilscre4m" label="username:evilscre4m" />
+      <node id="1887550440302374912" label="1887550440302374912" />
+      <node id="username:currentreport1" label="username:currentreport1" />
+      <node id="1632300277180121088" label="1632300277180121088" />
+      <node id="19224252" label="19224252" />
+      <node id="2564064961" label="2564064961" />
+      <node id="1842627387541880832" label="1842627387541880832" />
+      <node id="username:hajima_7" label="username:hajima_7" />
+    </nodes>
+    <edges>
+      <edge source="1622302302324555776" target="username:genemoneyman" id="0" weight="1" />
+      <edge source="1622302302324555776" target="username:andrew_lyerly" id="1" weight="1" />
+      <edge source="1622302302324555776" target="username:darussianbadger" id="2" weight="1" />
+      <edge source="1641380637645983744" target="username:dangitsjess" id="3" weight="1" />
+      <edge source="1641380637645983744" target="username:laratlarian" id="4" weight="1" />
+      <edge source="18366830" target="username:hannyahz" id="5" weight="1" />
+      <edge source="896357955125334016" target="username:flamenyong" id="6" weight="1" />
+      <edge source="896357955125334016" target="username:mrpyo1" id="7" weight="1" />
+      <edge source="3289689467" target="username:schisofrenia" id="8" weight="1" />
+      <edge source="955862511592656896" target="username:twinkslayer4200" id="9" weight="2" />
+      <edge source="955862511592656896" target="username:wrenfps" id="10" weight="2" />
+      <edge source="955862511592656896" target="username:nickjointson" id="11" weight="2" />
+      <edge source="955862511592656896" target="username:kristoffmikael" id="12" weight="2" />
+      <edge source="955862511592656896" target="username:qtarothought" id="13" weight="2" />
+      <edge source="1997782853414006784" target="username:iam_smx" id="14" weight="1" />
+      <edge source="1997782853414006784" target="username:elonmusk" id="15" weight="2" />
+      <edge source="1997782853414006784" target="username:grok" id="16" weight="1" />
+      <edge source="1997782853414006784" target="username:xai" id="17" weight="1" />
+      <edge source="29751400" target="username:joewilsoneq1" id="18" weight="1" />
+      <edge source="775375172199211009" target="username:gwopdouble0" id="19" weight="1" />
+      <edge source="775375172199211009" target="username:starfighterint1" id="20" weight="1" />
+      <edge source="775375172199211009" target="username:dexerto" id="21" weight="1" />
+      <edge source="775375172199211009" target="username:kindashabby" id="22" weight="1" />
+      <edge source="775375172199211009" target="username:ohnoitsalexx" id="23" weight="1" />
+      <edge source="1980933631196684288" target="username:higgsfield_ai" id="24" weight="1" />
+      <edge source="1896390258838700032" target="username:moon_ie_8" id="25" weight="2" />
+      <edge source="1896390258838700032" target="username:huge_icons" id="26" weight="2" />
+      <edge source="1896390258838700032" target="username:wlemonesc" id="27" weight="2" />
+      <edge source="1896390258838700032" target="username:lookatmymeat1" id="28" weight="2" />
+      <edge source="1802360522764922881" target="username:kruzadar" id="29" weight="1" />
+      <edge source="1802360522764922881" target="username:laratlarian" id="30" weight="1" />
+      <edge source="770299092417257472" target="username:guts4dinner" id="31" weight="1" />
+      <edge source="770299092417257472" target="username:shitpostrock" id="32" weight="1" />
+      <edge source="770299092417257472" target="username:tidywire" id="33" weight="1" />
+      <edge source="1923549457716740098" target="username:chieftodd16" id="34" weight="1" />
+      <edge source="1923549457716740098" target="username:briscoepark" id="35" weight="1" />
+      <edge source="1923549457716740098" target="username:theunclean" id="36" weight="1" />
+      <edge source="1729437006319538176" target="username:sirbest247" id="37" weight="1" />
+      <edge source="1729437006319538176" target="username:miranetwork" id="38" weight="1" />
+      <edge source="21275561" target="username:momotexx" id="39" weight="1" />
+      <edge source="1720665183188922368" target="username:drkr00" id="40" weight="1" />
+      <edge source="1720665183188922368" target="username:jjpcodes" id="41" weight="1" />
+      <edge source="1720665183188922368" target="username:andrewcurran_" id="42" weight="1" />
+      <edge source="1720665183188922368" target="username:jondarsen" id="43" weight="1" />
+      <edge source="1720665183188922368" target="username:thepeoplesfool" id="44" weight="1" />
+      <edge source="1720665183188922368" target="username:kingofinternet" id="45" weight="1" />
+      <edge source="1720665183188922368" target="username:existentialenso" id="46" weight="1" />
+      <edge source="1720665183188922368" target="username:arguewithme69" id="47" weight="2" />
+      <edge source="1720665183188922368" target="username:rahll" id="48" weight="2" />
+      <edge source="740508925" target="username:angrytomtweets" id="49" weight="1" />
+      <edge source="2985916727" target="username:yakkeemun" id="50" weight="1" />
+      <edge source="2985916727" target="username:danielvavra" id="51" weight="1" />
+      <edge source="1987207946518814720" target="username:kuk_ron" id="52" weight="1" />
+      <edge source="1987207946518814720" target="username:gassee" id="53" weight="1" />
+      <edge source="1965480748611219456" target="username:deemostech" id="54" weight="1" />
+      <edge source="846211625447231490" target="username:kitty_bit_games" id="55" weight="1" />
+      <edge source="2370161702" target="username:mrgeary08" id="56" weight="4" />
+      <edge source="2370161702" target="username:edward18517" id="57" weight="2" />
+      <edge source="2370161702" target="username:gprime85" id="58" weight="2" />
+      <edge source="2370161702" target="username:michaelg_3d" id="59" weight="2" />
+      <edge source="983884712241451010" target="username:daboyui" id="60" weight="1" />
+      <edge source="92969032" target="username:romancoxy" id="61" weight="1" />
+      <edge source="92969032" target="username:insidergamingig" id="62" weight="1" />
+      <edge source="806652220443721728" target="username:aubreanreverie" id="63" weight="1" />
+      <edge source="1416837274554281987" target="username:chlouds121600" id="64" weight="1" />
+      <edge source="1010307836600086529" target="username:howdypeepos" id="65" weight="1" />
+      <edge source="1940097619616989184" target="username:slimerslimy" id="66" weight="1" />
+      <edge source="1821618725797396480" target="username:rinothebouncer" id="67" weight="1" />
+      <edge source="22176458" target="username:vamichaelalaws" id="68" weight="1" />
+      <edge source="1967508590555471872" target="username:davord7" id="69" weight="1" />
+      <edge source="1967508590555471872" target="username:bindureddy" id="70" weight="1" />
+      <edge source="1967508590555471872" target="username:devselvar" id="71" weight="1" />
+      <edge source="1251465665980104704" target="username:1000rekagame" id="72" weight="1" />
+      <edge source="1204505600" target="username:jpcarleto" id="73" weight="2" />
+      <edge source="1204505600" target="username:michaelg_3d" id="74" weight="3" />
+      <edge source="1204505600" target="username:gregariousjames" id="75" weight="1" />
+      <edge source="757717097472548866" target="username:mrgeary08" id="76" weight="2" />
+      <edge source="757717097472548866" target="username:michaelg_3d" id="77" weight="2" />
+      <edge source="931159134" target="username:coldempanadas" id="78" weight="1" />
+      <edge source="785639121649737729" target="username:henryman73" id="79" weight="1" />
+      <edge source="888911366127403008" target="username:rinothebouncer" id="80" weight="1" />
+      <edge source="1985437728868352000" target="username:brizksie" id="81" weight="1" />
+      <edge source="285099132" target="username:kougeru" id="82" weight="1" />
+      <edge source="1162206399704657921" target="username:randommishaps" id="83" weight="1" />
+      <edge source="1229546406563721216" target="username:megaman" id="84" weight="1" />
+      <edge source="1593198301679161347" target="username:rinothebouncer" id="85" weight="1" />
+      <edge source="899006004" target="username:stealcase" id="86" weight="1" />
+      <edge source="984869894670843905" target="username:stealcase" id="87" weight="1" />
+      <edge source="737142202481016832" target="username:ces" id="88" weight="1" />
+      <edge source="737142202481016832" target="username:enilev" id="89" weight="1" />
+      <edge source="737142202481016832" target="username:ctatech" id="90" weight="1" />
+      <edge source="1589578114257997824" target="username:angrytomtweets" id="91" weight="1" />
+      <edge source="1601389369360777217" target="username:juninhopensa" id="92" weight="1" />
+      <edge source="1601389369360777217" target="username:evilscre4m" id="93" weight="1" />
+      <edge source="1601389369360777217" target="username:laratlarian" id="94" weight="1" />
+      <edge source="1887550440302374912" target="username:currentreport1" id="95" weight="1" />
+      <edge source="1632300277180121088" target="username:jondarsen" id="96" weight="1" />
+      <edge source="19224252" target="username:arguewithme69" id="97" weight="1" />
+      <edge source="2564064961" target="username:rinothebouncer" id="98" weight="1" />
+      <edge source="1842627387541880832" target="username:hajima_7" id="99" weight="1" />
+    </edges>
+  </graph>
+</gexf>
